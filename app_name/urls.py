@@ -4,6 +4,6 @@ from.import views
 urlpatterns=[
 
 
-path('home1',views.home1)
+path('',views.home1)
 
 ]
